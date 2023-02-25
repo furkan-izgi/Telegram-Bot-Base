@@ -2,3 +2,4 @@ python-dotenv
 pyrogram
 tgCrypto
 pyromod
+sqlite3
